@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.limjaehyeok8.signal",
+    "sha256_cert_fingerprints": ["29:5B:80:CC:22:1B:7E:50:BE:88:0A:C6:33:07:8C:38:75:92:6A:DD:E1:D2:FA:47:23:21:7F:7F:CF:B4:76:05"]
+  }
+}]
